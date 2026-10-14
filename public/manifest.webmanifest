@@ -1,0 +1,16 @@
+{
+  "name": "KasirKu Retail POS",
+  "short_name": "KasirKu",
+  "description": "Aplikasi Kasir Retail & Barcode Scanner Offline",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#10b981",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
